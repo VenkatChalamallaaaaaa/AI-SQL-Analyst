@@ -3,8 +3,8 @@
 Ask questions about a database in plain English and get SQL-backed answers and charts.
 Built with LangGraph, Claude Sonnet 5.5 and PostgreSQL, with a Streamlit chat UI.
 
-![Table answer](charts/68387388.png)
-![Chart answer](charts/73378926.png)
+![Table answer](charts/Screenshot%202026-10-11%20100123.png)
+![Chart answer](charts/73378936.png)
 
 ## What it does
 
