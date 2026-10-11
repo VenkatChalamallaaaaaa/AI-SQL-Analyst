@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+psycopg[binary]
+sqlalchemy
+pandas
+python-dotenv
+matplotlib
+streamlit
